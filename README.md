@@ -1,6 +1,6 @@
 日常训练:
 
-* [前端正则表达式入门到精通] (http://louiszhai.github.io/2016/06/13/regexp/#)
+* [前端正则表达式入门到精通](http://louiszhai.github.io/2016/06/13/regexp/#)
 
 知名博客：
 
